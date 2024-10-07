@@ -18,6 +18,7 @@ redirect_from:
 🎯 I competed in the Enigma ML competition, focusing on building a model that balances accuracy and fairness, ensuring precision without bias.
 
 Through this, I also learned how to use Optuna for hyperparameter tuning and applied in-depth data analysis to enhance model performance.
+
 ![Graph image](/images/fair_ai.png)
 Getting started
 ======
