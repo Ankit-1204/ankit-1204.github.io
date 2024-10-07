@@ -15,7 +15,7 @@ redirect_from:
 
 # My Experiences
 ## FAIR AI
-![Graph image](/images/fair_ai.png){: .align-center width="300px"}
+![Graph image](/images/fair_ai.png){:  .align-center width="300px"}
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
