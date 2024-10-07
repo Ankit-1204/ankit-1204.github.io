@@ -14,9 +14,8 @@ redirect_from:
 🌍 As a new open-source contributor, I’m getting involved in the community to help improve tools and libraries.
 
 # My Experiences
-======
-## Projects
-
+## FAIR AI
+(/images/fair_ai.png){: .align-center width="300px"}
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
