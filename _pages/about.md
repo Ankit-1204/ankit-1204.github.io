@@ -15,7 +15,10 @@ redirect_from:
 
 # My Experiences
 ## FAIR AI
-![Graph image](/images/fair_ai.png){:  .align-center width="300px"}
+🎯 I competed in the Enigma ML competition, focusing on building a model that balances accuracy and fairness, ensuring precision without bias.
+
+Through this, I also learned how to use Optuna for hyperparameter tuning and applied in-depth data analysis to enhance model performance.
+![Graph image](/images/fair_ai.png)
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
