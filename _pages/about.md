@@ -19,7 +19,7 @@ I’ve recently started contributing to [sktime](https://github.com/sktime), a f
 
 ## Implementation 💡
 I’m really interested in getting a deep understanding of different ML algorithms. To explore this, I’ve implemented some key research papers. For example, I’ve worked on KMeans for image compression and experimented with MAML (Model-Agnostic Meta-Learning) to see how models can quickly adapt to new tasks.
-![Image compression image](/images/compress_image.jpeg)
+<img src="/images/compress_image.jpeg" alt="Image compression image" width="300"/>
 
 ## FAIR AI
 🎯 I competed in the Enigma ML competition, focusing on building a model that balances accuracy and fairness, ensuring precision without bias.
