@@ -21,7 +21,7 @@ repository               : "Ankit-1204/ankit-1204.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Image_me2.jpeg"
+  avatar           : "Image_me.jpeg"
   name             : "Ankit Upadhyay"
   pronouns         : # example: "she/her"  
   bio              : "Curious technologist, exploring data and its potential for impact."
