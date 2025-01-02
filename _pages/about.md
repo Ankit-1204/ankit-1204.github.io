@@ -25,7 +25,7 @@ I’m very interested in having a in depth understanding of different ML algorit
   
   <img src="/images/compress_image.jpeg" alt="Image compression image" width="450" height="450"/>
   
-- I have worked on implementing DQN Algo from Scratch and a wrapper for Chess environment.
+- I have Implemented DQN Algo from Scratch and a wrapper for Chess environment.
   
   <img src="/images/chess.png" alt="Image compression image" width="500" height="500"/>
   
