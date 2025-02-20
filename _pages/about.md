@@ -1,26 +1,27 @@
 ---
 permalink: /
-title: "Hey there!👋"
+title: "Ankit Upadhyay"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-🕵️‍♀️ I am Ankit Upadhyay, third year undergraduate at MNNIT,Allahabad
+🕵️‍♀️ I am Ankit Upadhyay, Third Year Undergraduate at National Institute of Technology, Allahabad, India.
 
-🛠️ I have worked on multiple projects in the fields of Natural Language Processing, Reinforcement Learning, Exploratory Data Analysis, and more.
+🛠️ I am passionate about Machine Learning and have gained experience in Time Series Analysis, Natural Language Processing and Reinforcement Learning
 
-🌍 As a new open-source contributor, I’m getting involved in the community to help improve tools and libraries.
+🌍 As an open-source contributor, I’m getting involved in the community to help improve tools and libraries.
 
 # My Experiences
 ## Open Source Contribution 🤝
-I’ve recently started contributing to [sktime](https://github.com/sktime), a framework for time-series analysis. It’s been a rewarding experience adding features and learning from the open-source community while enhancing my skills in time-series forecasting and model development.
+I'm currently working under the mentorship program of [sktime](https://github.com/sktime), a framework for time-series analysis. It’s been a rewarding experience adding features and learning from the open-source community while enhancing my skills in time-series forecasting and model development.
+
 
 ## Implementation 💡
 I’m very interested in having a in depth understanding of different ML algorithms. To explore this, I’ve implemented some key research papers.
 
-- I Experimented with MAML (Model-Agnostic Meta-Learning) to see how models can quickly adapt to new tasks.
+- I have implemented Proximity Policy Optimization(PPO) Algorithm for Cartpole Problem. Check it out here [ppo-cart](https://www.kaggle.com/code/ankitupadhyay12/ppo-cart)
 - I’ve worked on implementing KMeans Clustering for image compression
   
   <img src="/images/compress_image.jpeg" alt="Image compression image" width="450" height="450"/>
